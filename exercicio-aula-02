@@ -46,7 +46,11 @@ function requestSalary() {
       const salary = parseFloat(input);
 
       if (isNaN(salary) || salary < 0) {
-        console.log('Digite o valor do salário como um número positivo.');
+        // Print error message in red using ANSI escape sequence
+        console.log(
+          '\x1b[31m%s\x1b[0m',
+          'Atenção: Digite o valor do salário como um número positivo.'
+        );
         requestSalary();
         return;
       }
