@@ -48,9 +48,9 @@ function buildEmailBody(customer) {
 const sendEmailsToCustomers = (customers) => {
   const dayOfWeek = getDayOfWeek();
 
-  if (dayOfWeek !== 'Terça-feira') {
+  if (dayOfWeek !== 'Segunda-feira') {
     console.log(
-      `Atenção: Hoje é ${dayOfWeek}. Este e-mail será enviado apenas as segundas-feiras.`
+      `\x1b[31mAtenção:\x1b[0m Hoje é ${dayOfWeek}! Este e-mail será enviado apenas as segundas-feiras.`
     );
     return;
   }
