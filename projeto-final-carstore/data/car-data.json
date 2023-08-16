@@ -1,0 +1,22 @@
+{
+  "topSellingCars": [
+    "Toyota Corolla",
+    "Ford F-150",
+    "Honda Civic",
+    "Chevrolet Silverado",
+    "Nissan Rogue",
+    "Toyota RAV4",
+    "Honda CR-V",
+    "Hyundai HB20",
+    "Chevrolet Equinox",
+    "Toyota Camry"
+  ],
+
+  "newVehicles": [
+    "Ford Mustang Mach-E",
+    "Kia EV6",
+    "Toyota GR86",
+    "Hyundai Ioniq 5",
+    "Tesla X"
+  ]
+}

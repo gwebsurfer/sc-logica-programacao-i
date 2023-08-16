@@ -1,0 +1,107 @@
+[
+  {
+    "firstName": "João",
+    "lastName": "Silva",
+    "email": "joao.silva@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Financiamento com juros baixos!"
+  },
+  {
+    "firstName": "Maria",
+    "lastName": "Santos",
+    "email": "maria.santos@email.com",
+    "receiveMarketingEmails": false,
+    "acquisitionConditions": "Desconto especial para pagamento à vista."
+  },
+  {
+    "firstName": "Pedro",
+    "lastName": "Costa",
+    "email": "pedro.costa@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Opções de leasing disponíveis."
+  },
+  {
+    "firstName": "Ana",
+    "lastName": "Oliveira",
+    "email": "ana.oliveira@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Aceitamos seu carro usado como entrada."
+  },
+  {
+    "firstName": "Lucas",
+    "lastName": "Almeida",
+    "email": "lucas.almeida@email.com",
+    "receiveMarketingEmails": false,
+    "acquisitionConditions": "Planos flexíveis de pagamento oferecidos."
+  },
+  {
+    "firstName": "Isabella",
+    "lastName": "Silva",
+    "email": "isabella.silva@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Garantia estendida disponível."
+  },
+  {
+    "firstName": "Thiago",
+    "lastName": "Rodrigues",
+    "email": "thiago.rodrigues@email.com",
+    "receiveMarketingEmails": false,
+    "acquisitionConditions": "Test drive disponível mediante solicitação."
+  },
+  {
+    "firstName": "Lara",
+    "lastName": "Ferreira",
+    "email": "lara.ferreira@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Promoção por tempo limitado em modelos selecionados."
+  },
+  {
+    "firstName": "Gustavo",
+    "lastName": "Lima",
+    "email": "gustavo.lima@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Opções de personalização para o interior do carro."
+  },
+  {
+    "firstName": "Sophia",
+    "lastName": "Alves",
+    "email": "sophia.alves@email.com",
+    "receiveMarketingEmails": false,
+    "acquisitionConditions": "Variedade de cores para escolher."
+  },
+  {
+    "firstName": "Eduardo",
+    "lastName": "Pereira",
+    "email": "eduardo.pereira@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Avaliação do valor do seu carro usado fornecida."
+  },
+  {
+    "firstName": "Ana Beatriz",
+    "lastName": "Carvalho",
+    "email": "ana.beatriz.carvalho@email.com",
+    "receiveMarketingEmails": false,
+    "acquisitionConditions": "Processo de financiamento fácil e rápido."
+  },
+  {
+    "firstName": "Mateus",
+    "lastName": "Gomes",
+    "email": "mateus.gomes@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Manutenção gratuita no primeiro ano."
+  },
+  {
+    "firstName": "Larissa",
+    "lastName": "Souza",
+    "email": "larissa.souza@email.com",
+    "receiveMarketingEmails": true,
+    "acquisitionConditions": "Entrega grátis em todo o Brasil."
+  },
+  {
+    "firstName": "Enzo",
+    "lastName": "Oliveira",
+    "email": "enzo.oliveira@email.com",
+    "receiveMarketingEmails": false,
+    "acquisitionConditions": "Processo de financiamento fácil e rápido."
+  }
+]
